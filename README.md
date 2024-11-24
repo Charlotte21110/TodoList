@@ -13,6 +13,6 @@ npm i -g pnpm
 
 # 界面
 
-![2.png](F:\Code\byteDanceLLM\dailyPlan\README\OwC5uTYgnAHWsBF.png)
+![首页.png](./README/OwC5uTYgnAHWsBF.png)
 
-![1.png](F:\Code\byteDanceLLM\dailyPlan\README\hBkDxey8wvUlsg9.png)
+![界面.png](./README/README\hBkDxey8wvUlsg9.png)

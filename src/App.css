@@ -1,0 +1,26 @@
+body {
+  background-color: #FFFAF6;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.index_ul {
+  padding-left: 0px;
+}
+.index_li {
+  display: inline-block;
+  list-style: none;
+  margin-right: 10px;
+}
+.nav-link {
+  color: #C7B99F;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #A29988;
+}

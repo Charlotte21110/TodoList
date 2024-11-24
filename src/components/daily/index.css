@@ -1,0 +1,31 @@
+.daily_li {
+  list-style: none;
+}
+.daily_ul {
+  position: relative;
+  left: -31px;
+}
+button {
+  margin: 5px;
+  height: 45px;
+  width: 105px;
+  text-align: center;
+  color: #6a5252;
+  background-color: #ececea;
+}
+
+input {
+  padding: 0 5px;
+  background-color: #ECEBE9;
+  border: none;
+  height: 40px;
+  outline-color: #E0D6D7;
+  font-size: 16px;
+  color: #6a5252;
+}
+
+.daily_checkbox {
+  position: relative;
+  top: 16px;
+  margin-right: 5px;
+}

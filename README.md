@@ -15,4 +15,4 @@ npm i -g pnpm
 
 ![首页.png](./README/OwC5uTYgnAHWsBF.png)
 
-![界面.png](./README/README\hBkDxey8wvUlsg9.png)
+![界面.png](./README/hBkDxey8wvUlsg9.png)
